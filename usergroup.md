@@ -2,7 +2,8 @@
 
 ## Description
 
-**Chair**: Carmen Bourlon
+Words go here.
 
 ## Members
+* **Chair**: Carmen Bourlon
 * Luke Crouch
