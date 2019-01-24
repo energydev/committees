@@ -3,6 +3,7 @@
 Accepting new members.
 
 **Chair**: Carmen Bourlon
+**Channel**: #usergroup-committee
 
 ## Description
 
