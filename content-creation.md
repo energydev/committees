@@ -1,4 +1,4 @@
-# Broadcasting Committee
+# Content Creation Committee
 
 ## Responsibilities
 * Manage A/V equipment in StarSpace46 event center
