@@ -10,6 +10,6 @@
 
 ## More Information
 
-[Get Help](infra-help.techlahoma.org)
+[Get Help](http://infra-help.techlahoma.org)
 
 [Documentation](https://github.com/techlahoma/infrastructure-committee)
