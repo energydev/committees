@@ -12,7 +12,6 @@
 * Aaron Krauss
 * Alex Adriaanse
 * Austin Keeton
-* Ava
 * Kristin Garcia
 * Mike Mattice
 * Ryan Johnson
