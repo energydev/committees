@@ -1,8 +1,20 @@
 # Membership Committee
 The Membership committee’s work focuses on improving the community of individuals that comprise the Techlahoma membership community. This involves encouraging participation in events, fostering connections between members, and ensuring a safe and welcoming environment for all current and potential members
 
-## Chair
-Ava 
+## Members
+* **Chair**: Ava Gates
+* Carlos Moreno
+* Darren Gibson
+* Devin Clark
+* Diana Varnes
+* Emily Grimes
+* Jeff Lowe
+* Jeff Yenzer
+* Jenn Gladney
+* Kendall Werts
+* Kimberly Collins
+* Kristin Garcia
+* Luke Crouch
 
 ## Core Responsibilities
 * Support the activities of the Techlahoma programs.
