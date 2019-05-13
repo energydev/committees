@@ -3,6 +3,7 @@ Focused on raising funds from membership and corporate sponsors to support Techl
 
 ## Members
 * **Chair**: Lucas Watson 
+* **Member**: Kristin Ferrier
 
 ## Core Responsibilities
 * Support the activities of the Techlahoma programs, specifically in their fundraising needs & efforts.
