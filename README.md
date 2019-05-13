@@ -1,6 +1,12 @@
 # Committees
 Governing guidelines for official Techlahoma Committees as established by the Techlahoma Board.
 
+* [Content Creation](content-creation.md)
+* [Fundraising](fundraising.md)
+* [Infrastructure](infrastructure.md)
+* [Marketing](pr-marketing.md)
+* [Membership](membership.md)
+
 ## Committee Chair
 ### Committee Chair Eligibility
 
